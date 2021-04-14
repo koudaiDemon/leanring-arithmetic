@@ -86,7 +86,7 @@ public class SpiralOrder {
                 {2}
         };
 
-        final List<Integer> list = spiralOrder(matrix);
+        final List<Integer> list = spiralOrder(matrix4);
 
         System.out.println(list);
 
